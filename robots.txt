@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://nazmi-rushiti-shmp.netlify.app/sitemap.xml
+Sitemap: https://nazmirushiti.al/sitemap.xml
